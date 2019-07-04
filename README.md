@@ -24,19 +24,18 @@ In the analysis, we used softwares(version) below.
     + For main analyses
 + R (3.4.4)
     + For PCA
-+ Gephi
++ Gephi (0.9.2)
     + For drawing co-occurent networks
-
 
 ## File description
 
 + ./
     + analysis.ipynb
-        + Main analyses in the paper (Python). Jupyter-notebook format
+        + Main analyses in the paper (Python), Jupyter-notebook format
     + utility.py
         + Utility functions (Python)
     + PCA.ipynb
-        + For creating biplot (R), on Jupyter-notebook format
+        + For creating biplot (R), Jupyter-notebook format
     + data/
         + animals_checked.tsv
             + ATU index(atu_id) and occurrence of animals in each tales
@@ -54,9 +53,9 @@ In the analysis, we used softwares(version) below.
         + pca_animal.tsv
             + Relative frequency of motifs by animals for PCA
         + cooc_raw.tsv
-            + Result of co-occurent of animals without name-unifying
+            + Result of co-occurent analysis of animals without name-unifying
         + cooc_gephi.tsv
-            + Result of co-occurent frequency of animals after name-unifying for making network graph using Gephi
+            + Result of co-occurent analysis of animals after name-unifying for making network graph using Gephi
         + cooc_overall.gephi
             + Gephi file for drawing the overall co-occurrent network
         + cooc_filtered.gephi
