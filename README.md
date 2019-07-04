@@ -1,18 +1,42 @@
 
 # Supplementary Material for Nakawake & Sato (2019)
 
-Nakawake & Sato, "Systematic quantitative analysis revealed zoological knowledge embedded in folktales"
+Nakawake, Y. & Sato, K. "Systematic quantitative analysis revealed zoological knowledge embedded in folktales"
+
+The original plain-text data was from Uther(2004).
+
+Using "Animal tales"(ATU1-299) as our corpus, We extracted
+
++ Animal names
++ Motif tags(Thompson Motif Index)
++ Substitutable pairs of animals
+
+from each tale type in the corpus.
+
+This repository contains these extracted data and the source code of analyses in the paper.
+
+
+## Software version
+
+In the analysis, we used softwares(version) below.
+
++ Python (3.6.8)
+    + For main analyses
++ R (3.4.4)
+    + For PCA
++ Gephi
+    + For drawing co-occurent networks
 
 
 ## File description
 
 + ./
     + analysis.ipynb
-        + Main analyses in the paper (Python)
+        + Main analyses in the paper (Python). Jupyter-notebook format
     + utility.py
         + Utility functions (Python)
     + PCA.ipynb
-        + For creating biplot (R)
+        + For creating biplot (R), on Jupyter-notebook format
     + data/
         + animals_checked.tsv
             + ATU index(atu_id) and occurrence of animals in each tales
@@ -39,4 +63,14 @@ Nakawake & Sato, "Systematic quantitative analysis revealed zoological knowledge
             + Gephi file for co-occurrent network filtered by weight
     + README.md 
         + This file
+
+## License
+
+
+
+
+## References
+
++ Uther H-J. 2004 *The types of international folktales: a classification and bibliography, based on the system of Antti Aarne and Stith Thompson*. Helsinki: Suomalainen Tiedeakatemia, Academia Scientiarum Fennica . 
+
 
