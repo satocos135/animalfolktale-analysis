@@ -1,0 +1,383 @@
+id	atu_id	animals
+1	1	fish, fox, man, wolf, bear, jackal, hare, hyena, coyote, rabbit
+4	2	fish, men, fox, wolf, bear, dog
+5	2A	jackal, wolf, men, fox
+6	2B	fish, wolf, fox
+8	2D	bear, wolf, fox
+9	3	bear, wolf, fox
+10	3*	fox, lamb, wolf, chicken, bear, dog, hen
+11	4	dog, bear, wolf, fox
+12	5	heron, fox, wolf, bear, turtle, tiger, dog
+13	6	crow, fox, sheep, wolf, jackal, hyena, chicken, bird
+14	6*	fox, wolf, goose, chicken
+15	7	bear, wolf, fox, man
+16	8	lion, fox, man, wolf, rabbit, jackal, goat, turtle, bear, possum, bird, ogre
+17	8*	horse, bear, reindeer, fox
+18	9	crab, fox, wolf, jackal, monkey, bear, hedgehog, bird
+20	10***	bear, wolf, fox, man, devil
+21	15	fox, wolf, jackal, bear, cat, mouse
+22	15*	wolf, fox
+25	20A	rooster, fox, wolf, hog, goat, hare, mouse, bear, cat, hen
+26	20C	rooster, fox, dog, wolf, goose, hare, chicken, bear, cat, mouse
+27	20D*	rooster, fox, cock, magpie, partridge, duck, lark, goose, sparrow, chicken
+28	21	fox, wolf, bear, hog, tiger
+30	23*	bear, wolf, fox, man
+31	30	lion, fox, wolf, jackal, hare, pig, hedgehog
+32	31	goat, bear, wolf, fox
+33	32	men, fox, wolf, jackal, hare, hedgehog
+34	33	fox
+37	34	sheep, fox, wolf, hyena, monkey
+38	34A	dog
+40	34C	monkey
+41	35A*	wolf, fox
+42	35B*	wolf, fox
+43	36	fox, wolf, lioness, hare, bear
+44	37	gosling, fox, sheep, wolf, goose, hare, ox, hyena, bear
+46	38	tiger, bear, fox, man
+48	40A*	wolf, fox
+50	41	fox, polecat, wolf, antelope, jackal, hedgehog, hyena, weasel, cat
+52	43	sheep, fox, wolf, hare, goat, bear
+53	44	sheep, fox, wolf, hedgehog, dog
+55	47A	fox, donkey, horse, wolf, hare, monkey, bear, dog
+56	47B	lion, fox, donkey, camel, horse, wolf, jackal, foal, mule
+57	47D	fox, horse, wolf, jackal, hare, cat, bear, dog
+59	48*	fox, wolf, monkey, bear, siren
+60	49	wasp, bear, hyena, fox
+61	49A	lion, fox, wasp, bear, hare, snake, monkey, coyote, tiger, deer
+62	50	lion, fox, wolf, jackal, hyena, coyote, bear, tiger, lynx
+63	50A	lion, fox
+64	50B	donkey, lion, fox
+65	50C	donkey, bear, lion, ox
+66	51	lion, fox, donkey, wolf, jackal, tiger, dog, panther
+67	51A	lion, wolf, fox, monkey
+68	51***	cat, fox, monkey
+69	52	lion, fox, ram, donkey, camel, wolf, bear, jackal, tiger, deer, hedgehog
+70	53	chicken, fox, man
+71	53*	lion, hare, frog, fox
+72	55	crab, snake, bird, raven, swallow, mouse, mole, oriole
+73	56	magpie, fox
+74	56A	woodpecker, dove, fox, crow, thrush, magpie, chick, jackal, nightingale, bird
+75	56B	crocodile, woodpecker, dove, fox, magpie, wolf, jackal, leopard, hyena, hen, dog, bird
+77	56D	fox, duck, jackal, sparrow, heron, bird, flamingo
+78	56A*	crow, fox, bird, cat, hen
+82	57	raven, crow, fox, bird
+83	58	crocodile, men, fox, camel, jackal, monkey, rabbit
+84	59	fox, donkey, jackal, bear, cat
+85	59*	lion, fox, bull, jackal, eagle, hog, tiger, cat
+86	60	heron, woodpecker, stork, fox, crow, wolf, crane, jackal, snipe, cat
+87	61	rooster, fox, partridge, bird
+89	61B	rooster, fox, man, cock, chicken, cat
+90	62	rooster, fish, dove, fox, titmouse, jackal, bird, dog, swallow
+91	62A	dog, goat, wolf, sheep, shepherd
+92	62*	goose, dog, fox
+93	63	jackal, flea, fox
+95	65	lion, fox, wolf, hare, bear, stag, dog
+96	65*	beetle, fox
+97	66A	crocodile, jackal, monkey
+98	66B	jackal, rabbit, crocodile, fox
+100	66A*	fox
+101	67	fox
+102	67**	fox, man
+103	67A*	gosling, fox, antelope, chicken, dog, leopard
+104	68	jackal, gopher, elephant, hyena
+105	68A	human, fox
+107	68*	crow, fox, magpie, bird, raven, swallow
+109	70	fish, hare, frog, duck
+110	71	sparrow, hare, fox
+111	72	alligator, fox, elephant, rabbit, wolf, horse, jackal, hare, jaguar, hyena, tiger, tortoise, woman
+112	72*	hare
+113	72B*	hare, fox
+115	72D*	hare, rabbit
+116	73	rabbit, fox
+117	74C*	crab, wolf, monkey, coyote, rabbit
+119	75	lion, elephant, bear, lioness, rat, squirrel, tiger, cat, mouse
+120	75A	lion, worm, bear, beetle
+121	75*	tiger, wolf
+122	76	lion, woodpecker, stork, wolf, crane
+123	77	lion, stag, dog, hunter
+124	77*	sheep, horse, wolf, hog, cow
+125	77**	lamb, wolf, sheep
+126	78	fox, donkey, wolf, goat, monkey, tiger, human, leopard
+127	78A	fox, rabbit, monkey, coyote, tiger, giant
+128	80	puppy, badger, fox, man, camel, hare, snake, bitch, hedgehog, mole
+129	80A*	badger, dove, fox, donkey, camel, wolf, crane, bear
+130	81	lark, hare, dog, grouse
+131	85	mouse, shrimp, chicken, dog, bird
+132	87A*	pig, bear, wolf, man
+133	88*	bear
+134	90	squirrel, stag, ox, elk
+135	91	monkey, crocodile, fish, fox, jackal, turtle, rabbit, cat
+137	92	lion, hare, elephant, fox
+139	93	fox, bird, farmer
+140	100	fox, wolf, dog
+141	101	wolf, sheep, dog, farmer, child
+143	102	lion, fox, sheep, wolf, jackal, hare, hog, hyena, cow, dog
+144	103	rooster, fox, wolf, dog, boar, bear, cat
+145	103A	cat, fox
+146	103A*	crow, fox, cat
+147	103B*	stag, cat
+148	103C*	lion, fox, donkey, wolf, bear, tiger
+149	105	fox, dog, cat
+150	105*	hawk, fox, crane, hedgehog
+152	106	
+153	106*	sow, wolf, hog, piglet, bear
+154	107	wolf, dog
+155	110	cat, mouse
+156	111	cat, mouse
+157	111A	lamb, tiger, wolf, hyena
+158	111A*	cat, mouse
+159	112	cat, mouse
+160	112*	rat, mouse
+161	112**	rooster, cat, mouse
+162	113	cat, mouse
+163	113A	pan, cat, man, dwarf
+164	113B	mouse, rat, cat, man
+165	113*.	cat, mouse
+166	115	fox, ram
+167	116	bear, horse
+168	117	bear, horse
+170	118	lion, bear, horse, wolf
+172	119B*	lion, bull, horse, wolf, foal
+174	120	hog, human, fox
+175	121	hog, tiger, wolf, man
+176	122	wolf
+177	122A	sheep, fox, horse, wolf, hog
+178	122B	squirrel, sparrow, rat, cat
+179	122C	dog, wolf, sheep
+180	122D	rooster, lion, fox, sheep, wolf, hare, blackbird
+181	122E	goat, wolf
+182	122F	hog, dog, wolf, sheep
+183	122G	shell, fish, crab, fox, sow, wolf, jackal, turtle, piglet
+184	122H	tiger, monkey
+186	122Z	wolf, fox
+187	122B*	squirrel, fox
+188	122D*	fox, bird
+189	122K*	goat, wolf, ram
+190	122L*	wolf, ox
+191	122M*	wolf, ram
+192	122N*	donkey, wolf
+193	123	goat, wolf, kid
+194	123A	foal, wolf, fox
+195	123B	fox, wolf, sheep, shepherd
+196	124	wolf, goose, hog, pig, bear
+198	125	donkey, tiger, wolf, sheep
+199	125B*	donkey, fish, rabbit, lion, ass
+202	126	goat, tiger, wolf, sheep
+203	126A*	ram, wolf, he-goat, bear, cat
+205	127A*	goat, wolf
+206	127B*	goat, fox
+207	129	fox, sheep
+208	129A*	lamb, wolf, sheep
+209	130	donkey, cat, dog, rooster, thief
+210	130A	rooster, pig, ox, ram
+211	130B	rooster, ram, donkey, wolf, goat, cat, dog
+212	130C	man, donkey, dog, goat, cat
+213	130D*	ram, wolf, goat, bear, cat
+214	131	tiger, calf, cow
+215	132	goat, wolf
+216	133*	crocodile, scorpion, fox, goat, snake, turtle
+217	135*	bird, mouse
+218	135A*	dog, fox
+219	136	pig, wolf
+220	136A*	fox, hare, wolf, cat
+221	137	hog, fish
+222	150	man, fox, bird, ferryman
+223	150A*	frog, farmer
+224	151	lion, man, wolf, bear, tiger
+225	151*	lion, farmer
+226	152	crow, man, magpie, wolf, gadfly, bear
+227	152A*	wolf, man
+229	153	fox, man, horse, gelding, bear
+230	154	fox, man, horse, goose, hare, bear, dog
+231	155	fox, man, wolf, snake, bear, tiger
+232	156	lion, wolf, emperor, bear, tiger, shepherd
+233	156A	lion, dragon, man
+236	156B*	snake, man, woman
+237	156C*	bear
+238	157	lion, men, fox, man, wolf, bear
+239	157A	lion, men, man
+240	157B	sparrow
+241	157C*	man, fish, men, bird, beast
+242	158	horse, fox
+243	159	fox, wolf, horse, goose, hare, bear, calf, cow
+244	159A	
+245	159B	lion, bear, man
+246	159C	lion, human, man
+247	159*	lion, man, donkey, dog, eagle, stag, cat
+248	160	lion, crow, man, bear, snake, monkey, tiger
+250	160*	bear, woman
+255	161	fox, farmer, hunter
+256	161B	bird, bear, man
+258	162	cow, stag
+260	162A*	wolf, sheep
+261	163	cattle, wolf, man
+265	165	gander, pig, fish, wolf
+266	165B*	wolf
+267	166A*	wolf, sheep
+268	166B*	horse, wolf
+272	168	bear, wolf
+273	168A	wolf, woman
+274	169*	wolf, men
+279	169K*	pig, wolf, man
+281	170	rooster, sheep, fox, ox
+283	171A*	bear, boar
+285	173	god, zeus, men, man, donkey, monkey, human, dog
+286	175	jackal, hare, rabbit, fox
+287	177	tiger, horse, sheep, man, thief
+288	178	
+289	178A	cat, snake, dog, mouse
+290	178B	dog, man
+291	178C	falcon, horse, snake
+292	179	bear
+293	179*	bear, men
+294	179A*	bear, man
+295	179A**	bear, man
+296	179B*	fox, man, lamb, wolf, goose, hare, bear
+297	180	jackal, snake, hunter
+298	181	crab, man, lizard, tiger, leopard
+299	182	snake, crow, master
+300	183*	hare
+301	184	monkey, man
+302	185	man, monkey
+303	186	monkey
+304	200	cat, dog, mouse
+305	200A	dog
+306	200B	dog
+307	200C*	hare, stag, dog
+308	200D*	dog, cat
+309	201	lion, butterfly, donkey, goldfinch, wolf, dog
+310	201D*	watchdog, dog
+311	201F*	wolf, dog
+312	201G*	dog, cook
+313	202	lion, fox, donkey, horse, goat
+314	203	goat, horse, sheep, hare
+315	204	rooster, sheep, duck, goose, goat, rat, pig, cat, mouse
+316	206	
+317	207	rooster, ox, donkey
+318	207A	donkey, ox
+319	207B.	donkey, horse
+320	207C	donkey, snake, horse, toad, master, king
+321	207A*	donkey, horse
+322	209	donkey, saddler
+323	210	rooster, crayfish, duck, hen, dog, mouse
+324	210*	crayfish, duck
+325	211	donkey, ass, bird
+326	211B*	drake, gander, duck, goat, turkey, boar
+327	212	bee, fox, man, wolf, goat, ant, bear, hedgehog
+328	214	donkey, dog
+329	214A	fox, scorpion, donkey, camel, frog, ass
+330	214B	donkey, hare, lion, ass
+331	214*	donkey, horse
+332	215	jackdaw, eagle, lamb, crow
+333	217	man, monkey, cat, dog, mouse
+335	218	man, weasel, cat, mouse, woman
+336	219E*	rooster, hen, man, woman
+337	219E**	goose, hen, woman
+338	219F*	hog, pup, sow, dog
+339	219H*	rooster
+340	220	eagle, bird
+341	220A	eagle, crow, bird
+342	221	wren, bird
+343	221A	wren, eagle, fly, bird
+344	221B	wren, owl, bird
+345	222	lion, fox, wolf, gnat, insect, wren, bear, bird
+346	222A	bird, bat
+347	222B	sparrow, bird, eagle, mouse
+349	223	crocodile, men, fox, lark, jackal, dog, bird
+350	224	beetle, peacock, owl, hoopoo, frog, lark, mouse, turkey, nightingale, insect, grasshopper, ant, turtle, bird
+352	225	stork, fox, wolf, crane, jackal, bird, tortoise
+353	225A	tortoise, swan, goose, eagle, heron, bird
+354	226	goose, fox
+355	227	fox, wolf, duck, goose, piglet
+356	227*	crayfish, crow
+357	228	bee, wolf, gnat, titmouse, wren, bear, tiger, bird
+358	229	rooster, fox, snipe, hawk, bird
+359	230	hawk, eagle, owl, bird
+360	230*	rooster, cock, hen
+361	201	crane, fish, crab, heron
+362	231*	lion, bear, fox
+363	231**	eagle, falcon, dove
+364	232	bird
+365	232C*	bird
+366	232D*	crow
+367	233A	bird
+368	233B	mouse, rat, bird
+369	233C	men, owl, bird, human, swallow, tortoise
+370	233D	bird
+371	234	dove, fox, crow, nightingale, blindworm, tick
+372	234A*	bird, fowler
+373	235	cuckoo, jay
+375	235C*	bird
+376	236	dove, crow, thrush, magpie, bird, sparrow, cow, swallow
+377	236*	hoopoe, cow, bird, bittern
+378	237	parrot, magpie, sow, cat
+379	238	bee, dove, crow, frog, falcon
+380	239	jackal, deer, crow
+381	240	dove, crow, magpie, hen, bird
+383	240A*	bee, ant, dove
+384	241	monkey, man, bird
+385	242	toad, frog, crow, bird
+387	243A	rooster, crow
+388	243*	crow
+389	244	swan, crow, peacock, raven, bird
+392	244A*	heron, stork, crane
+393	244B*	sparrow
+394	244C*	raven, bird
+395	245	bird
+397	246	fish, deer, bird
+398	247	owl, hawk, wolf, partridge, eagle, snipe, raven, bird, sportsman
+399	248	man, horse, sparrow, dog, bird
+400	248A	bee, crow, elephant, frog, lark
+402	250	perch, fish, salmon
+403	250A	flounder, fish, herring
+404	253	fish
+406	275	crayfish, fox
+407	275A	hare, toad, tortoise
+408	275B	crab, fox, chameleon, frog, crayfish, toad, tick
+409	275C	fox, mussel, snail, jackal, hare, hedgehog, tortoise
+411	275C*	snail, frog
+412	276	crab
+413	277	stork, frog, crane, ant, snake, god
+414	277A	frog, ox
+415	278	frog, falcon, rat, toad, mouse
+416	278A	frog
+417	278A*	frog
+419	279*	snake, crab
+420	280	raven, ant, bear
+421	280A	ant, grasshopper, cricket
+422	281	lion, bull, man, spider, buffalo, horse, gnat
+424	282A*	spider, insect, flea, fly
+425	282B*	flea, fly, man
+426	282C*	bedbug, louse, flea, person
+427	282D*	louse, flea, woman
+428	283	spider, insect, wasp, fly
+430	283B*	fox, wolf, hare, fly, bear, mouse
+431	283D*	spider, silkworm
+432	283H*	zeus, eagle, beetle
+433	285	snake, child
+434	285A	bird, snake, man
+435	285B	snake, man
+437	285E	snake, weasel
+438	285A*	adder, mother
+439	285B*	snake, man, woman
+440	288B*	beetle, toad
+441	288B**	horse, man
+442	288C*	turtle, god
+443	289	bird, diver, bat
+444	291	elephant, hippopotamus, rabbit, whale, tortoise
+445	292	donkey, cricket
+446	293	snake
+447	293B*	
+448	293C*	fly, man
+449	293D*	
+450	293E*	
+452	293G*	hedgehog, man
+453	294	
+454	295	mouse
+455	296	
+456	297B	
+457	298	traveler
+458	298A	gentleman
+459	298A*	man
+461	298C*	
+462	299	mouse

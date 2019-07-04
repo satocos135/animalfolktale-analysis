@@ -1,0 +1,189 @@
+adder	snake
+alligator	crocodile
+ant	ant
+antelope	goat
+ass	donkey
+badger	*small animal
+bat	*small animal
+bear	bear
+beard	beard
+beast	*large animal
+bedbug	*vermin
+bee	bee
+beetle	*bug
+bird	*bird
+bitch	dog
+bittern	*bird
+blackbird	*bird
+blindworm	*bug
+boar	*large animal
+buffalo	*large animal
+bull	cattle
+butterfly	*bug
+calf	cattle
+camel	camel
+cat	cat
+cattle	cattle
+chameleon	*small animal
+chick	chicken
+chicken	chicken
+child	human
+cock	chicken
+cook	human
+cow	cattle
+coyote	coyote
+crab	crab
+crane	crane
+crayfish	crayfish
+cricket	*bug
+crocodile	crocodile
+crow	crow
+cuckoo	*bird
+deer	deer
+devil	*supernatural
+diver	*bird
+dog	dog
+donkey	donkey
+dove	dove
+dragon	*supernatural
+drake	duck
+drum	drum
+duck	duck
+dwarf	*supernatural
+eagle	eagle
+elephant	elephant
+elk	deer
+emperor	human
+falcon	*raptores
+farmer	human
+ferryman	human
+fish	*fish
+flamingo	*bird
+flea	*vermin
+flounder	*fish
+fly	fly
+foal	horse
+fowler	human
+fox	fox
+frog	frog
+fur	fur
+gadfly	fly
+gander	goose
+gelding	horse
+gentleman	human
+giant	*supernatural
+gnat	*vermin
+goat	goat
+god	*supernatural
+goldfinch	*bird
+goose	goose
+gopher	*small animal
+gosling	goose
+grasshopper	*bug
+grouse	*bird
+hare	rabbit
+hawk	*raptores
+hedgehog	*small animal
+he-goat	goat
+hen	chicken
+heron	heron
+herring	*fish
+hippopotamus	*large animal
+hog	pig
+hoopoe	*bird
+hoopoo	*bird
+horse	horse
+human	human
+hunter	human
+hyena	hyena
+insect	*bug
+jackal	jackal
+jackdaw	crow
+jaguar	*big cat
+jay	*bird
+kid	goat
+king	human
+lamb	sheep
+lark	lark
+leopard	*big cat
+lion	lion
+lioness	lion
+lizard	*small animal
+louse	*vermin
+lynx	*big cat
+magpie	magpie
+man	human
+master	human
+men	human
+mole	*small animal
+monkey	monkey
+mother	human
+mouse	mouse
+mule	donkey
+mussel	*fish
+nightingale	*bird
+ogre	*supernatural
+oriole	*bird
+owl	owl
+ox	cattle
+pan	*supernatural
+panther	*big cat
+parrot	*bird
+partridge	*bird
+peacock	*bird
+perch	*fish
+person	human
+pig	pig
+piglet	pig
+polecat	*small animal
+possum	*small animal
+pup	dog
+puppy	dog
+rabbit	rabbit
+ram	sheep
+rat	mouse
+raven	crow
+reindeer	deer
+rooster	chicken
+saddler	human
+salmon	*fish
+schoolmaster	human
+scorpion	*bug
+sheep	sheep
+shell	*fish
+shepherd	human
+shrimp	*fish
+silkworm	*bug
+siren	*supernatural
+snail	*small animal
+snake	snake
+snipe	*bird
+sow	pig
+sparrow	sparrow
+spider	*bug
+squirrel	*small animal
+sportsman	human
+stag	deer
+stork	stork
+swallow	swallow
+swan	*bird
+thief	human
+thrush	*bird
+tick	*vermin
+tiger	tiger
+titmouse	*bird
+toad	frog
+tortoise	turtle
+traveler	human
+turkey	*bird
+turtle	turtle
+wasp	bee
+watchdog	dog
+weasel	*small animal
+whale	*large animal
+wolf	wolf
+woman	human
+woodpecker	*bird
+worm	*bug
+wren	wren
+zeus	*supernatural
