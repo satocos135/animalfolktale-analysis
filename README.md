@@ -32,8 +32,6 @@ In the analysis, we used softwares(version) below.
 The contents of this repository are as follows:
 
 + ./
-    + supplementary.pdf
-        + Suplimentary figures for the paper.
     + analysis.ipynb
         + Main analyses in the paper (Python), Jupyter-notebook format
     + utility.py
