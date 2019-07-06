@@ -25,11 +25,15 @@ In the analysis, we used softwares(version) below.
 + R (3.4.4)
     + For PCA
 + Gephi (0.9.2)
-    + For drawing co-occurent networks
+    + For drawing co-occurrent networks
 
 ## File description
 
+The contents of this repository are as follows:
+
 + ./
+    + supplementary.pdf
+        + Suplimentary figures for the paper.
     + analysis.ipynb
         + Main analyses in the paper (Python), Jupyter-notebook format
     + utility.py
@@ -63,13 +67,14 @@ In the analysis, we used softwares(version) below.
     + README.md 
         + This file
 
-## License
-
-
-
 
 ## References
 
 + Uther H-J. 2004 *The types of international folktales: a classification and bibliography, based on the system of Antti Aarne and Stith Thompson*. Helsinki: Suomalainen Tiedeakatemia, Academia Scientiarum Fennica . 
+
+
+## Changes
+
++ Publish the supplementary material page (7 July 2019)
 
 
