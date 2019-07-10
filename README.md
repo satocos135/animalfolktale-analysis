@@ -3,6 +3,10 @@
 
 Nakawake, Y. & Sato, K. "Systematic quantitative analysis revealed zoological knowledge embedded in folktales"
 
+A preprint of the paper is available on arXiv: https://arxiv.org/abs/1907.03969
+
+## About data
+
 The original plain-text data was from Uther(2004).
 
 Using "Animal tales"(ATU1-299) as our corpus, We extracted
@@ -65,7 +69,6 @@ The contents of this repository are as follows:
     + README.md 
         + This file
 
-
 ## References
 
 + Uther H-J. 2004 *The types of international folktales: a classification and bibliography, based on the system of Antti Aarne and Stith Thompson*. Helsinki: Suomalainen Tiedeakatemia, Academia Scientiarum Fennica . 
@@ -73,6 +76,7 @@ The contents of this repository are as follows:
 
 ## Changes
 
-+ Publish the supplementary material page (7 July 2019)
++ Publish the page (7 July 2019)
++ Add arXiv link (9 July 2019)
 
 
