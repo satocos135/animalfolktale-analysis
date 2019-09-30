@@ -1,503 +1,401 @@
 Source	Target	Weight
-fox	wolf	67
-bear	wolf	47
-bear	fox	44
-*bird	*bird	37
-fox	rabbit	36
-fox	jackal	32
-fox	human	32
-sheep	wolf	31
-human	wolf	31
-*bird	fox	31
-*bird	crow	30
-bear	human	26
-chicken	fox	25
-dog	fox	23
-rabbit	wolf	22
-dog	wolf	22
-fox	lion	22
-cat	mouse	21
-pig	wolf	20
-lion	wolf	20
-jackal	wolf	20
-*bird	chicken	20
-bear	lion	19
-dog	human	19
-*small animal	fox	19
-goat	wolf	18
-human	human	18
-*bird	*bug	18
-tiger	wolf	17
-*bird	wolf	17
-human	lion	17
+fox	wolf	44
+bear	fox	35
+sheep	wolf	30
+human	wolf	29
+fox	human	29
+*bird	fox	28
+bear	human	25
+chicken	fox	23
+*bird	crow	22
+*bird	*bird	22
+dog	fox	19
+rabbit	wolf	18
+pig	wolf	18
+dog	wolf	17
+cat	mouse	17
+fox	lion	17
 *bird	jackal	17
+dog	human	17
 *bird	human	17
-cat	fox	17
-bear	rabbit	16
-human	snake	15
-fox	sheep	15
-jackal	rabbit	15
-donkey	lion	14
-fox	horse	14
+human	lion	16
+*bird	wolf	15
+goat	wolf	14
+human	snake	14
 chicken	chicken	14
+*bird	chicken	14
+*bird	*bug	14
+jackal	wolf	13
 horse	wolf	13
-fox	tiger	13
-bear	tiger	13
-donkey	fox	13
-chicken	dog	13
-cat	chicken	13
-donkey	wolf	12
+bear	rabbit	13
+*small animal	fox	13
 chicken	wolf	12
+bear	wolf	12
 human	tiger	12
-*bird	mouse	12
-*bird	magpie	12
-fox	goose	12
-*bird	dove	12
-cat	dog	12
-cat	wolf	11
-*small animal	wolf	11
-lion	tiger	11
+fox	sheep	12
+donkey	lion	12
+human	human	12
+fox	horse	12
+donkey	fox	12
+fox	tiger	11
 lion	rabbit	11
-*bird	owl	11
-fox	monkey	11
-*small animal	jackal	11
 horse	human	11
-*supernatural	human	11
-fox	goat	11
-hyena	wolf	10
-*bird	turtle	10
-human	rabbit	10
-dog	rabbit	10
-fox	pig	10
-chicken	mouse	10
-human	monkey	10
-fox	hyena	10
-donkey	human	10
-chicken	human	10
-*small animal	human	10
-donkey	horse	10
-bear	horse	10
-crow	fox	10
-*bird	eagle	10
-bear	dog	10
-goose	wolf	9
-goat	sheep	9
+fox	goose	11
+chicken	dog	11
+donkey	wolf	10
+cat	wolf	10
+fox	rabbit	10
+cat	fox	10
+cat	chicken	10
+fox	pig	9
+*bird	mouse	9
+human	monkey	9
+donkey	human	9
+chicken	human	9
 cat	human	9
-chicken	goose	9
-dog	donkey	9
-*bird	dog	9
-bear	cat	9
-cattle	wolf	8
-fox	turtle	8
-*bird	swallow	8
-dog	sheep	8
-chicken	sheep	8
-*small animal	rabbit	8
-bear	pig	8
-jackal	lion	8
-*bird	lark	8
+*supernatural	human	9
+bear	horse	9
+crow	fox	9
+*bird	eagle	9
+cat	dog	9
+goose	wolf	8
+*small animal	wolf	8
+human	rabbit	8
+*bird	owl	8
+bear	lion	8
 hyena	jackal	8
-human	jackal	8
-bear	jackal	8
+*small animal	jackal	8
+*small animal	human	8
 *fish	fox	8
-*bug	*bug	8
-monkey	wolf	7
-rabbit	turtle	7
-*bird	sparrow	7
-human	sheep	7
-bear	sheep	7
-horse	rabbit	7
-horse	lion	7
+bear	dog	8
+bear	cat	8
+lion	wolf	7
+cattle	wolf	7
+*bird	turtle	7
+bear	pig	7
+jackal	lion	7
+human	jackal	7
 crocodile	jackal	7
-cat	jackal	7
+bear	jackal	7
 *vermin	human	7
-bear	goose	7
-cat	goat	7
-bear	goat	7
-*bird	frog	7
-crocodile	fox	7
+fox	goat	7
 *small animal	dog	7
+*bird	dog	7
 bear	chicken	7
-*small animal	*small animal	7
-*bird	*small animal	7
 *fish	*fish	7
-*bird	wren	6
 *fish	wolf	6
-jackal	turtle	6
-rabbit	sheep	6
-pig	sheep	6
-monkey	rabbit	6
+*bird	swallow	6
+dog	sheep	6
+bear	sheep	6
 hyena	rabbit	6
-goose	rabbit	6
+horse	rabbit	6
+dog	rabbit	6
 *fish	rabbit	6
 pig	pig	6
-dog	pig	6
-*fish	pig	6
-mouse	mouse	6
-dog	mouse	6
-bear	mouse	6
-crow	magpie	6
-chicken	magpie	6
-dog	lion	6
-dog	jackal	6
+chicken	mouse	6
+horse	lion	6
 *fish	jackal	6
+fox	hyena	6
 cattle	horse	6
-*bird	heron	6
-cattle	fox	6
-camel	fox	6
-*big cat	fox	6
-chicken	duck	6
-camel	donkey	6
-bear	donkey	6
-*small animal	cat	6
-*small animal	bear	6
-*bird	bear	6
-*bird	*raptores	6
-turtle	wolf	5
-*big cat	wolf	5
+chicken	goose	6
+bear	goose	6
+*bird	*small animal	6
+*bird	wren	5
+monkey	wolf	5
 sheep	tiger	5
 monkey	tiger	5
 jackal	tiger	5
 donkey	tiger	5
-*big cat	tiger	5
-crane	stork	5
-*small animal	snake	5
-hyena	sheep	5
-cattle	sheep	5
-donkey	rabbit	5
+*bird	sparrow	5
+goose	rabbit	5
 crocodile	rabbit	5
-coyote	rabbit	5
-chicken	rabbit	5
-cat	rabbit	5
 jackal	pig	5
-goose	pig	5
+dog	pig	5
+*fish	pig	5
 human	mouse	5
-frog	mouse	5
-*small animal	mouse	5
-bear	monkey	5
+bear	mouse	5
 fox	magpie	5
 deer	lion	5
-cattle	lion	5
-*small animal	lion	5
-*bug	lion	5
-*bird	lion	5
 donkey	jackal	5
-goat	human	5
-duck	goose	5
-chicken	goat	5
-*small animal	goat	5
-*bug	frog	5
-dove	fox	5
+cat	goat	5
+crocodile	fox	5
+cattle	fox	5
 *bug	fox	5
-*bird	duck	5
-crow	dove	5
-donkey	donkey	5
-cat	donkey	5
-chicken	crow	5
+*big cat	fox	5
+bear	donkey	5
 *bird	cattle	5
-*small animal	camel	5
-*bug	ant	5
+*bird	bear	5
 *bird	ant	5
 *bug	*vermin	5
-*bird	*fish	5
-mouse	wolf	4
+*small animal	*small animal	5
+*bird	*raptores	5
+*bug	*bug	5
+turtle	wolf	4
 crow	wolf	4
 crane	wolf	4
-human	turtle	4
-*fish	turtle	4
 *bug	turtle	4
 rabbit	tiger	4
-crow	swallow	4
-*bird	stork	4
 fox	snake	4
-horse	sheep	4
-goose	sheep	4
-cat	sheep	4
-rabbit	rabbit	4
-goat	rabbit	4
+rabbit	sheep	4
+hyena	sheep	4
+human	sheep	4
+cattle	sheep	4
+jackal	rabbit	4
 elephant	rabbit	4
-cattle	rabbit	4
-human	pig	4
-chicken	pig	4
-cattle	pig	4
-cat	pig	4
+donkey	rabbit	4
+chicken	rabbit	4
+cat	rabbit	4
+*small animal	rabbit	4
+goose	pig	4
 lion	mouse	4
+frog	mouse	4
 fox	mouse	4
-jackal	monkey	4
-*supernatural	monkey	4
-dove	magpie	4
+dog	mouse	4
+chicken	magpie	4
+dog	lion	4
 cat	lion	4
+*small animal	lion	4
+*bug	lion	4
+*bird	lion	4
 horse	jackal	4
+dog	jackal	4
 crow	jackal	4
 chicken	jackal	4
 *big cat	jackal	4
-bear	hyena	4
-*small animal	hyena	4
 crow	human	4
 *fish	human	4
-dog	horse	4
-dog	goose	4
 cattle	goose	4
 *bird	goose	4
-donkey	goat	4
-dog	goat	4
-fox	frog	4
+bear	goat	4
 crow	frog	4
-deer	fox	4
+*bug	frog	4
+*bird	frog	4
+dove	fox	4
 crane	fox	4
-coyote	fox	4
-*vermin	fox	4
-*supernatural	fox	4
+camel	fox	4
 *bug	fly	4
 crow	eagle	4
-chicken	dove	4
-*bug	donkey	4
+chicken	duck	4
+*bird	dove	4
+donkey	donkey	4
+dog	donkey	4
+cat	donkey	4
 deer	dog	4
 bear	deer	4
-crow	crow	4
-*bird	crane	4
-*small animal	crab	4
 bear	cattle	4
+*small animal	cat	4
 *bird	cat	4
 bear	bee	4
 *vermin	*vermin	4
-*bird	*vermin	4
+tiger	wolf	3
 stork	wolf	3
-crab	wolf	3
-coyote	wolf	3
-camel	wolf	3
-*supernatural	wolf	3
-crocodile	turtle	3
-*small animal	turtle	3
-snake	tiger	3
-pig	tiger	3
-hyena	tiger	3
-coyote	tiger	3
-cattle	tiger	3
+mouse	wolf	3
+rabbit	turtle	3
+jackal	turtle	3
+human	turtle	3
+fox	turtle	3
+bear	tiger	3
 *small animal	tiger	3
-fox	sparrow	3
-chicken	sparrow	3
 dog	snake	3
-crow	snake	3
-bear	snake	3
-*bird	snake	3
 lion	sheep	3
 jackal	sheep	3
-donkey	sheep	3
-crow	sheep	3
-pig	rabbit	3
+horse	sheep	3
+goose	sheep	3
+goat	sheep	3
 mouse	rabbit	3
+monkey	rabbit	3
+goat	rabbit	3
 frog	rabbit	3
-deer	rabbit	3
-*bird	rabbit	3
-mouse	pig	3
-lion	pig	3
+coyote	rabbit	3
+cattle	rabbit	3
+human	pig	3
 human	owl	3
 *bug	owl	3
-goose	mouse	3
-goat	mouse	3
-duck	mouse	3
 *bug	mouse	3
 lion	monkey	3
-donkey	monkey	3
-dog	monkey	3
+fox	monkey	3
 crocodile	monkey	3
 coyote	monkey	3
-cat	monkey	3
-elephant	lion	3
-chicken	lark	3
+*supernatural	monkey	3
+*bird	magpie	3
+cattle	lion	3
 *bug	lark	3
 dove	jackal	3
 camel	jackal	3
-*bird	hyena	3
-*big cat	hyena	3
+*small animal	hyena	3
 goose	human	3
+goat	human	3
 frog	human	3
 fly	human	3
 crocodile	human	3
 *large animal	human	3
 *big cat	human	3
-horse	horse	3
-fox	heron	3
-crane	heron	3
-goat	goose	3
-duck	goat	3
-frog	frog	3
+dog	horse	3
+dog	goose	3
+dog	goat	3
+chicken	goat	3
+*small animal	goat	3
+fox	frog	3
 donkey	frog	3
-*small animal	frog	3
 *raptores	frog	3
 duck	fox	3
+deer	fox	3
 crab	fox	3
 bee	fox	3
-*raptores	eagle	3
-chicken	donkey	3
+*vermin	fox	3
+*supernatural	fox	3
+*bird	duck	3
+crow	dove	3
+chicken	dove	3
 cattle	donkey	3
-*bird	donkey	3
+camel	donkey	3
 dog	dog	3
 *fish	dog	3
-*big cat	dog	3
-cattle	deer	3
 *small animal	deer	3
+chicken	crow	3
 cat	crow	3
-bear	crow	3
 *bird	crocodile	3
-*fish	crab	3
-*bird	crab	3
-bear	coyote	3
-cattle	chicken	3
-*supernatural	bear	3
+*small animal	camel	3
+*small animal	bear	3
 *bug	bear	3
+*bug	ant	3
+*bird	*vermin	3
+*bird	*fish	3
 wolf	wren	2
 bear	wren	2
 *vermin	wren	2
 magpie	wolf	2
+hyena	wolf	2
 heron	wolf	2
 fly	wolf	2
 dove	wolf	2
 deer	wolf	2
-crocodile	wolf	2
+camel	wolf	2
 bee	wolf	2
 *vermin	wolf	2
-*bug	wolf	2
 tiger	turtle	2
 pig	turtle	2
-owl	turtle	2
-heron	turtle	2
-goat	turtle	2
-frog	turtle	2
 elephant	turtle	2
+crocodile	turtle	2
 bear	turtle	2
 *supernatural	turtle	2
 *large animal	turtle	2
+*fish	turtle	2
+snake	tiger	2
 mouse	tiger	2
 horse	tiger	2
 goat	tiger	2
-elephant	tiger	2
-dog	tiger	2
 deer	tiger	2
+cattle	tiger	2
 cat	tiger	2
 bee	tiger	2
 *bird	tiger	2
-magpie	swallow	2
+*big cat	tiger	2
 human	swallow	2
 fox	swallow	2
-dove	swallow	2
+crow	swallow	2
 jackal	stork	2
-heron	stork	2
 fox	stork	2
-mouse	sparrow	2
-magpie	sparrow	2
-duck	sparrow	2
-rabbit	snake	2
-mouse	snake	2
+fox	sparrow	2
+chicken	sparrow	2
 monkey	snake	2
 lion	snake	2
 horse	snake	2
 frog	snake	2
-crab	snake	2
+crow	snake	2
+bear	snake	2
+*small animal	snake	2
+*bird	snake	2
 sheep	sheep	2
-mouse	sheep	2
-*small animal	sheep	2
-*bird	sheep	2
+pig	sheep	2
+crow	sheep	2
+chicken	sheep	2
+cat	sheep	2
+pig	rabbit	2
 camel	rabbit	2
 *supernatural	rabbit	2
 *large animal	rabbit	2
 *big cat	rabbit	2
-horse	pig	2
-goat	pig	2
-duck	pig	2
-crab	pig	2
+chicken	pig	2
+cattle	pig	2
+cat	pig	2
 eagle	owl	2
 *raptores	owl	2
 elephant	mouse	2
+*small animal	mouse	2
 *raptores	mouse	2
+donkey	monkey	2
+dog	monkey	2
 crab	monkey	2
+bear	monkey	2
 *bird	monkey	2
 jackal	magpie	2
-hyena	lion	2
-goat	lion	2
-eagle	lion	2
-coyote	lion	2
+crow	magpie	2
+elephant	lion	2
 camel	lion	2
 *vermin	lion	2
-*supernatural	lion	2
 *big cat	lion	2
-frog	lark	2
 fox	lark	2
-dog	lark	2
+chicken	lark	2
+*bird	lark	2
 heron	jackal	2
 goat	jackal	2
+fox	jackal	2
 elephant	jackal	2
 deer	jackal	2
 crane	jackal	2
 crab	jackal	2
-coyote	jackal	2
 cattle	jackal	2
+cat	jackal	2
 human	hyena	2
 goose	hyena	2
-elephant	hyena	2
 dog	hyena	2
-crocodile	hyena	2
-coyote	hyena	2
-chicken	hyena	2
 cattle	hyena	2
-eagle	human	2
+bear	hyena	2
+*bird	hyena	2
 deer	human	2
 cattle	human	2
 camel	human	2
+horse	horse	2
 goose	horse	2
-goat	horse	2
-camel	horse	2
-cat	goose	2
+fox	heron	2
+goat	goose	2
+duck	goose	2
 *bird	goat	2
 *big cat	goat	2
-crayfish	frog	2
-crab	frog	2
-bee	frog	2
-ant	frog	2
-*vermin	frog	2
-elephant	fox	2
 crayfish	fox	2
 *raptores	fox	2
 bear	fly	2
 *vermin	fly	2
 *small animal	elephant	2
-*large animal	elephant	2
 cat	eagle	2
-crayfish	duck	2
 *large animal	duck	2
 dog	dove	2
 bee	dove	2
-*raptores	dove	2
-deer	donkey	2
+chicken	donkey	2
 *supernatural	donkey	2
-*small animal	donkey	2
 *fish	donkey	2
-*big cat	donkey	2
+*bug	donkey	2
+*bird	donkey	2
 crocodile	dog	2
 camel	dog	2
 *supernatural	dog	2
 cat	deer	2
+crow	crow	2
 bee	crow	2
-*raptores	crow	2
-*big cat	crocodile	2
+bear	crow	2
 chicken	crayfish	2
-*small animal	crane	2
-*fish	chicken	2
-*big cat	chicken	2
+*small animal	crab	2
+*fish	crab	2
+*bird	crab	2
+cattle	chicken	2
 cattle	cattle	2
-*supernatural	cat	2
-bear	camel	2
-ant	bee	2
 *bug	bee	2
 *bird	bee	2
 ant	bear	2
 *vermin	bear	2
 *large animal	bear	2
 *fish	bear	2
-*supernatural	*supernatural	2
-*fish	*small animal	2
-*bird	*large animal	2
 *big cat	*bird	2
 tiger	wren	1
 owl	wren	1
@@ -506,78 +404,70 @@ fox	wren	1
 fly	wren	1
 eagle	wren	1
 bee	wren	1
-*bug	wren	1
-snake	wolf	1
 owl	wolf	1
-elephant	wolf	1
-eagle	wolf	1
 duck	wolf	1
+crab	wolf	1
 ant	wolf	1
-*raptores	wolf	1
+*supernatural	wolf	1
 *large animal	wolf	1
-swallow	turtle	1
+*bug	wolf	1
 stork	turtle	1
 snake	turtle	1
-mouse	turtle	1
 monkey	turtle	1
 lion	turtle	1
-lark	turtle	1
 hyena	turtle	1
 horse	turtle	1
+heron	turtle	1
 goose	turtle	1
+goat	turtle	1
 eagle	turtle	1
 dog	turtle	1
 crane	turtle	1
 crab	turtle	1
 cat	turtle	1
 ant	turtle	1
+*small animal	turtle	1
 *big cat	turtle	1
+pig	tiger	1
+lion	tiger	1
+hyena	tiger	1
 heron	tiger	1
-eagle	tiger	1
-crow	tiger	1
-crocodile	tiger	1
+dog	tiger	1
 crab	tiger	1
+coyote	tiger	1
 camel	tiger	1
 *vermin	tiger	1
-*supernatural	tiger	1
 sparrow	swallow	1
-snake	swallow	1
-owl	swallow	1
-mouse	swallow	1
+magpie	swallow	1
 jackal	swallow	1
+dove	swallow	1
 dog	swallow	1
-crab	swallow	1
-chicken	swallow	1
 cattle	swallow	1
 *small animal	swallow	1
-*fish	swallow	1
-snake	stork	1
 lion	stork	1
+heron	stork	1
 frog	stork	1
-crow	stork	1
 cat	stork	1
 ant	stork	1
 *supernatural	stork	1
-rabbit	sparrow	1
+*bird	stork	1
+mouse	sparrow	1
 lark	sparrow	1
 jackal	sparrow	1
 human	sparrow	1
 horse	sparrow	1
-heron	sparrow	1
-goose	sparrow	1
 eagle	sparrow	1
-dove	sparrow	1
 dog	sparrow	1
 crow	sparrow	1
 cattle	sparrow	1
 cat	sparrow	1
-*small animal	sparrow	1
+rabbit	snake	1
+mouse	snake	1
 jackal	snake	1
 goat	snake	1
 donkey	snake	1
 deer	snake	1
-crocodile	snake	1
-crane	snake	1
+crab	snake	1
 coyote	snake	1
 cat	snake	1
 camel	snake	1
@@ -585,41 +475,37 @@ bee	snake	1
 ant	snake	1
 *supernatural	snake	1
 *raptores	snake	1
-*bug	snake	1
 monkey	sheep	1
 eagle	sheep	1
-duck	sheep	1
-deer	sheep	1
-camel	sheep	1
-lark	rabbit	1
+*small animal	sheep	1
+rabbit	rabbit	1
 fly	rabbit	1
 duck	rabbit	1
+deer	rabbit	1
 crab	rabbit	1
 bee	rabbit	1
+*bird	rabbit	1
+mouse	pig	1
 magpie	pig	1
+lion	pig	1
 hyena	pig	1
-eagle	pig	1
-*small animal	pig	1
+horse	pig	1
+goat	pig	1
+crab	pig	1
 *bird	pig	1
-mouse	owl	1
-lark	owl	1
-frog	owl	1
-crow	owl	1
 ant	owl	1
+mouse	mouse	1
 monkey	mouse	1
-lark	mouse	1
 jackal	mouse	1
+goose	mouse	1
+goat	mouse	1
 fly	mouse	1
 eagle	mouse	1
-crow	mouse	1
-crayfish	mouse	1
-crab	mouse	1
+duck	mouse	1
 ant	mouse	1
 *fish	mouse	1
-hyena	monkey	1
+jackal	monkey	1
 horse	monkey	1
-goat	monkey	1
-deer	monkey	1
 crow	monkey	1
 camel	monkey	1
 bee	monkey	1
@@ -629,19 +515,18 @@ bee	monkey	1
 lark	magpie	1
 hyena	magpie	1
 human	magpie	1
-goose	magpie	1
 fly	magpie	1
-duck	magpie	1
+dove	magpie	1
 dog	magpie	1
 crocodile	magpie	1
 cattle	magpie	1
 cat	magpie	1
 bear	magpie	1
 *big cat	magpie	1
-lion	lion	1
+hyena	lion	1
 frog	lion	1
-crow	lion	1
 crane	lion	1
+coyote	lion	1
 chicken	lion	1
 bee	lion	1
 *large animal	lion	1
@@ -649,174 +534,153 @@ bee	lion	1
 jackal	lark	1
 human	lark	1
 goose	lark	1
+frog	lark	1
 elephant	lark	1
 duck	lark	1
+dog	lark	1
 crow	lark	1
 crocodile	lark	1
 bee	lark	1
 ant	lark	1
 eagle	jackal	1
 duck	jackal	1
+coyote	jackal	1
 *vermin	jackal	1
 *supernatural	jackal	1
 horse	hyena	1
-goat	hyena	1
+elephant	hyena	1
 dove	hyena	1
-crow	hyena	1
+chicken	hyena	1
 cat	hyena	1
 bee	hyena	1
 *fish	hyena	1
 elephant	human	1
+eagle	human	1
 crab	human	1
 coyote	human	1
 bee	human	1
 ant	human	1
-*raptores	human	1
 *bug	human	1
+goat	horse	1
 frog	horse	1
 elephant	horse	1
-deer	horse	1
+donkey	horse	1
 crocodile	horse	1
 cat	horse	1
+camel	horse	1
 *vermin	horse	1
-*raptores	horse	1
 *large animal	horse	1
 *bug	horse	1
 *bird	horse	1
 *big cat	horse	1
 goose	heron	1
 eagle	heron	1
-duck	heron	1
 dog	heron	1
-crow	heron	1
+crane	heron	1
 crab	heron	1
 cat	heron	1
 bear	heron	1
 *fish	heron	1
 goose	goose	1
 eagle	goose	1
+cat	goose	1
 *large animal	goose	1
 *fish	goose	1
 *big cat	goose	1
 goat	goat	1
+duck	goat	1
+donkey	goat	1
 crocodile	goat	1
 bee	goat	1
 ant	goat	1
-*supernatural	goat	1
 *large animal	goat	1
 *bug	goat	1
 elephant	frog	1
-duck	frog	1
 dove	frog	1
 crane	frog	1
 cattle	frog	1
-camel	frog	1
+bee	frog	1
+ant	frog	1
 *supernatural	frog	1
-*fish	frog	1
+*small animal	frog	1
 fly	fox	1
+elephant	fox	1
 eagle	fox	1
+coyote	fox	1
 ant	fox	1
 *large animal	fox	1
 eagle	fly	1
 crow	fly	1
-bee	fly	1
 *bird	fly	1
 crow	elephant	1
-crocodile	elephant	1
 cat	elephant	1
 bee	elephant	1
-bear	elephant	1
-*big cat	elephant	1
 dove	eagle	1
 donkey	eagle	1
 dog	eagle	1
 deer	eagle	1
-cattle	eagle	1
 *supernatural	eagle	1
+*raptores	eagle	1
 *bug	eagle	1
 duck	duck	1
 dog	duck	1
-cat	duck	1
-*fish	duck	1
-donkey	dove	1
+crayfish	duck	1
 crocodile	dove	1
-crane	dove	1
 cattle	dove	1
-camel	dove	1
-bear	dove	1
 ant	dove	1
-*vermin	dove	1
-*small animal	dove	1
-*fish	dove	1
+*raptores	dove	1
 *bug	dove	1
 *big cat	dove	1
-crane	donkey	1
-crayfish	dog	1
+*small animal	donkey	1
+*big cat	donkey	1
 cattle	dog	1
 *large animal	dog	1
-*bug	dog	1
-deer	deer	1
+*big cat	dog	1
 crow	deer	1
 coyote	deer	1
-camel	deer	1
+cattle	deer	1
 bee	deer	1
-*fish	deer	1
-*bird	deer	1
 crayfish	crow	1
-crane	crow	1
-crab	crow	1
 cattle	crow	1
 ant	crow	1
-*vermin	crow	1
 *small animal	crow	1
+*raptores	crow	1
 *bug	crow	1
 chicken	crocodile	1
 cat	crocodile	1
-camel	crocodile	1
-*fish	crocodile	1
-*bug	crocodile	1
-crab	crayfish	1
-*vermin	crayfish	1
-*small animal	crayfish	1
 crab	crane	1
 cat	crane	1
-camel	crane	1
-bear	crane	1
 ant	crane	1
 *supernatural	crane	1
-*raptores	crane	1
+*small animal	crane	1
 *fish	crane	1
-coyote	crab	1
-bear	crab	1
-*vermin	crab	1
+*bird	crane	1
 *big cat	crab	1
 bee	coyote	1
-*supernatural	coyote	1
+bear	coyote	1
 *fish	coyote	1
-*big cat	coyote	1
 *raptores	chicken	1
 *large animal	chicken	1
+*fish	chicken	1
+*big cat	chicken	1
 cat	cattle	1
 *vermin	cattle	1
 *small animal	cattle	1
 *large animal	cattle	1
 *bug	cattle	1
+*supernatural	cat	1
 *large animal	cat	1
 *fish	cat	1
 *bug	camel	1
-*vermin	bee	1
-*small animal	bee	1
 *raptores	bee	1
 *big cat	bear	1
 *supernatural	ant	1
-*small animal	ant	1
-*small animal	*vermin	1
 *large animal	*vermin	1
-*small animal	*supernatural	1
+*supernatural	*supernatural	1
 *bug	*supernatural	1
 *bird	*supernatural	1
 *raptores	*small animal	1
 *big cat	*small animal	1
-*large animal	*large animal	1
 *fish	*large animal	1
 *bug	*large animal	1
+*bird	*large animal	1

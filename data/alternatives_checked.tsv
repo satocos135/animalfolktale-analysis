@@ -1,4 +1,4 @@
-﻿id	aut_id	alternatives
+﻿id	atu_id	alternatives
 1	1	[['fox', 'hare', 'rabbit', 'coyote', 'jackal'], ['fish'], ['wolf', 'bear', 'fox', 'coyote', 'hyena'], ['rabbit', 'fox'], ['fox', 'wolf']]
 4	2	[['bear', 'wolf'], ['men','dog']]
 5	2A	[[], ['fox', 'jackal', 'wolf'], ['men']]
