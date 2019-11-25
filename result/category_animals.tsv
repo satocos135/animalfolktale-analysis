@@ -1,0 +1,31 @@
+	index	wild	index	wild_and_human	index	wild_and_domestic	index	domestic	index	others
+0	fox	87.0	human	49.0	wolf	37.0	donkey	16.0	*bird	55
+1	wolf	54.0	bear	20.0	fox	23.0	dog	15.0	human	23
+2	bear	37.0	wolf	18.0	cat	21.0	human	11.0	*bug	17
+3	rabbit	32.0	fox	11.0	sheep	20.0	chicken	8.0	crow	17
+4	jackal	28.0	lion	10.0	pig	15.0	mouse	6.0	frog	16
+5	*bird	27.0	horse	8.0	goat	13.0	horse	6.0	fox	12
+6	chicken	22.0	snake	7.0	mouse	13.0	cat	5.0	*vermin	12
+7	lion	21.0	rabbit	6.0	dog	12.0	goat	5.0	*fish	9
+8	human	21.0	tiger	6.0	bear	9.0	duck	5.0	snake	9
+9	dog	21.0	sheep	5.0	human	9.0	wolf	3.0	mouse	9
+10	*small animal	17.0	monkey	5.0	donkey	8.0	sheep	3.0	eagle	9
+11	monkey	14.0	cattle	5.0	horse	7.0	*bird	3.0	*small animal	8
+12	cat	13.0	dog	5.0	tiger	7.0	pig	3.0	turtle	8
+13	tiger	13.0	goose	4.0	cattle	6.0	rabbit	3.0	*raptores	6
+14	sheep	11.0	*supernatural	3.0	chicken	6.0	goose	3.0	wolf	6
+15	donkey	10.0	crow	3.0	lion	6.0	lion	3.0	dove	6
+16	hyena	10.0	*bird	3.0	rabbit	4.0	fox	3.0	chicken	6
+17	crow	9.0	jackal	2.0	*fish	4.0	*bug	2.0	fly	6
+18	goat	8.0	*fish	2.0	*small animal	3.0	cattle	2.0	bee	5
+19	goose	7.0	*large animal	2.0	*bird	3.0	frog	2.0	wren	5
+20	horse	7.0	donkey	2.0	jackal	2.0	crayfish	2.0	bear	5
+21	deer	7.0	deer	2.0	hyena	2.0	crow	2.0	owl	5
+22	mouse	7.0	cat	2.0	*supernatural	2.0	*small animal	2.0	ant	5
+23	*fish	7.0	pig	2.0	turtle	2.0	eagle	1.0	rabbit	4
+24	*big cat	6.0	*raptores	1.0	crab	1.0	bear	1.0	jackal	4
+25	crocodile	6.0	crab	1.0	*bug	1.0	camel	1.0	cattle	4
+26	pig	6.0	mouse	1.0	crocodile	1.0	snake	1.0	sparrow	4
+27	cattle	5.0	*small animal	1.0	goose	1.0	ant	1.0	crab	3
+28	coyote	5.0	sparrow	1.0	monkey	1.0	bee	1.0	horse	3
+29	magpie	5.0	chicken	1.0	*large animal	1.0	*large animal	1.0	*large animal	3

@@ -3,3 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 tmi_sub.tsv
 tmi.tsv
+trash/
