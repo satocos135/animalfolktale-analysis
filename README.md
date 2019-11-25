@@ -38,6 +38,8 @@ The contents of this repository are as follows:
 + ./
     + analysis.ipynb
         + Main analyses in the paper (Python), Jupyter-notebook format
+    + supplementary.ipynb
+        + Analyses in the supplementary materials, Jupyter-notebook format
     + utility.py
         + Utility functions (Python)
     + PCA.ipynb
@@ -53,6 +55,12 @@ The contents of this repository are as follows:
             + Coding table for unifying animal categories
         + categories_atu.tsv
             + Categories of animal tales in ATU
+        + country_edited.tsv
+            + (supp.) ATU index(atu_id) and Geographic information of each tales 
+        + country_code.tsv
+            + (supp.) Classification of country and ethnic groups. Mainly according to United Nations (1999)
+        + deceptive_motifs.tsv
+            + (supp.) List of deceptive motifs in TMI obtained by MOMFER(Karsdorp et al., 2015)
     + result/
         + pca_tale_type.tsv
             + Relative frequency of motifs by tale categories for PCA
@@ -66,17 +74,32 @@ The contents of this repository are as follows:
             + Gephi file for drawing the overall co-occurrent network
         + cooc_filtered.gephi
             + Gephi file for co-occurrent network filtered by weight
+        + category_animals.tsv
+            + (supp. Table S1) Frequency of animal occurrences by each category
+        + animal_groups.tsv
+            + (supp. Table S3) List of groups which are labelled to unified animals
+        + region_count.tsv
+            + (supp. Table S4a) Frequency of each world area
+        + region_count_by_tale.tsv
+            + (supp. Table S4b) Frequency of tale types included each world area
+        + deception.tsv
+            + (supp. Table S5) List of deceptive motifs in each major index of TMI.
+        + deception_motif_without_k
+            + (supp. Table S6) List of deceptive motifs overlapping with motif K
+    + requirements.txt
+        + Module and version information Por python
     + README.md 
         + This file
 
 ## References
 
++ Karsdorp, F, Van der Meulen, M, Meder, T, and Van den Bosch, A 2015 MOMFER: A Search Engine of Thompson's Motif-Index of Folk Literature. *Folklore*, 126(1), pp. 37-52.
++ United Nations, Statistics Division 1999 Standard Country or Area Codes for Statistical Use (Rev. 4), *Series M: Miscellaneous Statistical Papers*, No. 49. United Nation, New York
 + Uther H-J. 2004 *The types of international folktales: a classification and bibliography, based on the system of Antti Aarne and Stith Thompson*. Helsinki: Suomalainen Tiedeakatemia, Academia Scientiarum Fennica . 
-
 
 ## Changes
 
-+ Publish the page (7 July 2019)
-+ Add arXiv link (9 July 2019)
-
++ Publish the page (7th July 2019)
++ Add arXiv link (9th July 2019)
++ Add supplementary materials (25th November 2019)
 
