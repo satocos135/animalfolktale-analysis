@@ -1,3 +1,5 @@
 __pycache__/
 *.swp
 .ipynb_checkpoints/
+tmi_sub.tsv
+tmi.tsv
