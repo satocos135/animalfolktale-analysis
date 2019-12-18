@@ -1,9 +1,11 @@
 
 # Supplementary Material for Nakawake & Sato (2019)
 
-Nakawake, Y. & Sato, K. "Systematic quantitative analysis revealed zoological knowledge embedded in folktales"
+Nakawake, Y., Sato, K. (2019) Systematic quantitative analyses reveal the folk-zoological knowledge embedded in folktales. _Palgrave Communications_ **5**, 161  doi:10.1057/s41599-019-0375-x
 
-A preprint of the paper is available on arXiv: https://arxiv.org/abs/1907.03969
+The paper (open access): https://www.nature.com/articles/s41599-019-0375-x#citeas
+
+A preprint of the paper on arXiv: https://arxiv.org/abs/1907.03969
 
 ## About data
 
@@ -102,4 +104,4 @@ The contents of this repository are as follows:
 + Publish the page (7th July 2019)
 + Add arXiv link (9th July 2019)
 + Add supplementary materials (25th November 2019)
-
++ Update the paper information (18th December 2019)
